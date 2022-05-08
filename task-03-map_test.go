@@ -35,7 +35,7 @@ func TestSortMapValues (t *testing.T) {
 				t.Errorf("test finished with error,map# %d in %d element: got %s, want %s",i, j, returnSlice[i],b[i])
 			}
 		}
-		t.Log("Ok")
+		t.Log("Task 3. Test 1. Test passed OK")
 	}
 
 	}

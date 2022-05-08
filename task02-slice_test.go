@@ -16,5 +16,5 @@ func TestReverse (t *testing.T){
 			t.Errorf("test finished with error, in %d element: got %d, want %d",i, a[i],b[i])
 		}
 	}
-	t.Log("Test passed OK!")
+	t.Log("Task 2. Test 1. Test passed OK!")
 }
